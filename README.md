@@ -24,8 +24,10 @@ IDE de desarrolo intellij IDEA Community
 3. Ejectuar el siguiente comando desde la raíz del repositorio para iniciar la app `./gradlew run`
 4. Por defecto, Spring Boot utiliza el puerto 80 quedando como URL: http://localhost
 
-## Entorno de producción
-URL: cambiar
+## Entorno de producción AWS
+URL: 
+GET  : http://ec2-54-224-48-160.compute-1.amazonaws.com/stats
+POST : http://ec2-54-224-48-160.compute-1.amazonaws.com/mutant
 
 ## Enpoints disponibles
 ### POST -> /mutant/
@@ -56,3 +58,4 @@ curl http://localhost/stats
 
 ## Contacto
 [jose.lozano.tamayo@gmail.com](mailto:mailto:jose.lozano.tamayo@gmail.com)
+
