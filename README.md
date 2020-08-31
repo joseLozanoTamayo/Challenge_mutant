@@ -58,4 +58,3 @@ curl http://localhost/stats
 
 ## Contacto
 [jose.lozano.tamayo@gmail.com](mailto:mailto:jose.lozano.tamayo@gmail.com)
-
