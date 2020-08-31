@@ -1,5 +1,5 @@
 # Challenge_mutant
-
+![](https://github.com/joseLozanoTamayo/Challenge_mutant/workflows/Java%20CI/badge.svg)
 API REST para el prueba técnica de MercadoLibre.  
 
 Consta de un endpoint que recibe un arreglo de strings (correspondientes a una cadena de ADN) y se analiza si se trata de un mutante o un humano.  
